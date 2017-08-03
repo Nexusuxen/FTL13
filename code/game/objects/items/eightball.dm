@@ -27,7 +27,7 @@
 		"Signs point to yes",
 		"Reply hazy try again",
 		"Ask again later",
-		"Better not tell you now",
+		"Maybe... Try again",
 		"Cannot predict now",
 		"Concentrate and ask again",
 		"Don't count on it",
